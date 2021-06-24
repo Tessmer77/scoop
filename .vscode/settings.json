@@ -15,5 +15,7 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/tmp": true
-    }
+    },
+    "java.completion.enabled": false,
+    "java.debug.settings.enableRunDebugCodeLens": false
 }
